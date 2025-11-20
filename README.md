@@ -96,4 +96,5 @@ Captures outlier rides for operational understanding.
 Include dashboard preview images for GitHub or portfolio.
 
 Example:
-![Dashboard Preview](path-to-your-screenshot.png)
+![Dashboard Preview]([path-to-your-screenshot.png](https://github.com/codekaifu/Ubre-Trip-Analysis/blob/main/Snapshot%20of%20the%20Dashboard.png))
+
